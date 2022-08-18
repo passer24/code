@@ -1,0 +1,8 @@
+﻿  源.cpp
+C:\Users\32659\Desktop\code\Project6\Project6\源.cpp(74,7): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\32659\Desktop\code\Project6\Project6\源.cpp(75,10): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\32659\Desktop\code\Project6\Project6\源.cpp(76,12): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\32659\Desktop\code\Project6\Project6\源.cpp(83,17): warning C4474: scanf_s: 格式字符串中传递的参数太多
+C:\Users\32659\Desktop\code\Project6\Project6\源.cpp(83,17): message : 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+C:\Users\32659\Desktop\code\Project6\Project6\源.cpp(88,11): warning C4477: “printf”: 格式字符串“%f”需要类型“double”的参数，但可变参数 1 拥有了类型“int”
+  Project6.vcxproj -> C:\Users\32659\Desktop\code\Project6\x64\Debug\Project6.exe

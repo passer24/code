@@ -1,0 +1,6 @@
+﻿  源.cpp
+D:\code\8.6\8.6\源.cpp(147,10): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“__int64”
+D:\code\8.6\8.6\源.cpp(147,10): message : 请考虑在格式字符串中使用“%lld”
+D:\code\8.6\8.6\源.cpp(147,10): message : 请考虑在格式字符串中使用“%Id”
+D:\code\8.6\8.6\源.cpp(147,10): message : 请考虑在格式字符串中使用“%I64d”
+  8.6.vcxproj -> D:\code\8.6\x64\Debug\8.6.exe
